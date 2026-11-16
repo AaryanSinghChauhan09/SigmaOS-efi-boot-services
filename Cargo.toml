@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-efi-boot-services"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS efi-boot-services component - boot"
+
+[lib]
+name = "efi_boot_services"
+path = "src/lib.rs"
