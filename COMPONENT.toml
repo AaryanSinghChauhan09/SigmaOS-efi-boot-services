@@ -3,7 +3,7 @@ name = "SigmaOS-efi-boot-services"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "efi-boot-services component"
+description = "efi boot services component"
 upstream = []
 
 [contract]
